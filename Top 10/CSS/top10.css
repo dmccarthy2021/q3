@@ -1,0 +1,22 @@
+body 	{
+	background-color: teal;
+}
+h1	{
+	color:red;
+}
+img	{
+	width:300px;
+	border:5px;
+	border-style: solid;
+	border-color: red;
+}
+p	{
+	color: white;
+
+}
+.h1header	{
+	color: white;
+	font-size: 75px;
+	text-align: center;
+	text-decoration: underline;
+}

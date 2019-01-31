@@ -1,9 +1,107 @@
-p	{
-	color: purple;
+body 	{
+	background-color: #00FFF0
 }
-h1	{
-	color: blue;
+p	{
+	text-align: center;
+	color: purple;
+	font-size:20px
+
+}
+img	{
+	width: 300px;
+	border: 10px;
+	border-style: solid;
+	border-color: blue;
+}
+.h1one	{
+	text-decoration: underline;
+	color: purple;
+	text-align: center;
+}
+h2	{
+	text-align: center;
 }
 h3	{
-	color: black;
+	border: 5px black solid;
+	padding: 15px;
+	margin: 25px;
+	text-decoration: underline;
+	font-size: 30px
+}
+.h3one	{
+	color: blue;
+}
+.p1	{
+	border: 3px blue solid;
+	padding: 15px;
+	margin: 25px;
+	color: blue;
+}
+.h3two	{
+	color: red;
+}
+.picture1	{
+	border: dashed;
+	border-color: red;
+}
+.picture2	{
+	border: dashed;
+	border-color: red;
+}
+.p2{
+	border: 3px red solid;
+	padding: 15px;
+	margin: 25px;
+	color: red;
+}
+.h3three	{
+	color: orange;
+}
+.picture3	{
+	border: dashed;
+	border-color: orange;
+}
+.p3 	{
+	border: 3px orange solid;
+	padding: 15px;
+	margin: 25px;
+	color: orange;
+}
+.picture4	{
+	border: dashed;
+	border-color: orange;
+}
+.h3four	{
+	color: purple;
+}
+.picture5	{
+	border: solid;
+	border-color: purple
+}
+.picture6	{
+	border: solid;
+	border-color: purple;
+}
+.wrapper	{
+	width: 80%;
+	margin: 0 auto;
+	background-color: white;
+}
+footer	{
+	text-align: center;
+}
+.p4 	{
+	border: 3px purple solid;
+	padding: 15px;
+	margin: 25px;
+}
+.section	{
+	border: 5px	black solid;
+	padding: 15px;
+	margin: 25px;
+}
+.section2	{
+	border: 5px black solid;
+	padding: 15px;
+	margin: 25px;
 }
