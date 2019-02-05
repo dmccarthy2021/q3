@@ -72,3 +72,16 @@ img	{
 	width: 80%;
 	margin: 0 auto;
 	background-color: white;
+}
+a:link	{
+	color: orange;
+}
+a:hover	{
+	color: black;
+}
+a:visited	{
+	color:red;
+}
+a:active	{
+	color: blue;
+}
