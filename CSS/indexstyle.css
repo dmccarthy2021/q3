@@ -1,0 +1,32 @@
+.wrapper	{
+	width: 80%;
+	background-color: #00FFF0;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	margin: 0 auto;
+}
+.h1one	{
+	text-align: center;
+	color: #8B05E7;
+	font-size: 40px;
+}
+a 	{
+	border: 2px black solid;
+	padding: 5px;
+	margin:5px;
+	background-color: #09DF6A;
+	display: block;
+	font-size: 26px;
+}
+nav	{
+	text-align: center;
+}
+footer	{
+	text-align: center;
+}
+body	{
+	background-color: #F1FF46
+}
+p 	{
+	color: #FF0D53;
+}
