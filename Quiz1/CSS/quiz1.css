@@ -40,3 +40,14 @@ li	{
 .plink	{
 	background-color: #16839A
 }
+nav	{
+	text-align: center;
+}
+.a1	{
+	border: 2px black solid;
+	padding: 5px;
+	margin:5px;
+	background-color: #09DF6A;
+	display: inline;
+	font-size: 26px;
+}
