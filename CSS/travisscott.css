@@ -65,7 +65,7 @@ footer	{
 	border: 5px green solid;
 }
 .float5	{
-	float: right;
+	float: left;
 	border: 5px #0DD3EE solid;
 }
 .cleared4	{
@@ -96,4 +96,7 @@ a:active	{
 }
 .p5	{
 	color:  #0DD3EE;
+}
+article	{
+	display: flow-root;
 }
