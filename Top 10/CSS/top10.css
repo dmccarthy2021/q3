@@ -23,11 +23,23 @@ p	{
 nav	{
 	text-align: center;
 }
-.a1 	{
+.a1	{
 	border: 2px black solid;
 	padding: 5px;
 	margin:5px;
 	background-color: #09DF6A;
 	display: inline;
 	font-size: 26px;
+}
+a:link	{
+	color: #F10C0C;
+}
+a:hover	{
+	color: #EE840D;
+}
+a:visited	{
+	color: black;
+}
+a:active	{
+	color: #F1EA00;
 }

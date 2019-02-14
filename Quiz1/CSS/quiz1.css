@@ -51,3 +51,15 @@ nav	{
 	display: inline;
 	font-size: 26px;
 }
+a:link	{
+	color: #F10C0C;
+}
+a:hover	{
+	color: #EE840D;
+}
+a:visited	{
+	color: black;
+}
+a:active	{
+	color: #F1EA00;
+}
