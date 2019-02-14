@@ -66,7 +66,7 @@ footer	{
 }
 .float5	{
 	float: right;
-	border: 5px green solid;
+	border: 5px #0DD3EE solid;
 }
 .cleared4	{
 	display:flow-root;
@@ -93,4 +93,7 @@ a:visited	{
 }
 a:active	{
 	color: #F1EA00;
+}
+.p5	{
+	color:  #0DD3EE;
 }
