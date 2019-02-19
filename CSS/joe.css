@@ -49,4 +49,21 @@ footer	{
 	background-color: #aa0000;
 	text-align: center;
 	color:white;
+	width: 80%;
+	margin: 0 auto;
+	padding: 15px;
+}
+.floatl	{
+	float:left;
+}
+.floatr	{
+	float: right;
+}
+.colr 	{
+	float:right;
+	width: 45%;
+}
+.coll	{
+	float:left;
+	width: 45%;
 }
